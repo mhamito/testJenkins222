@@ -1,0 +1,17 @@
+{
+  "name": "testJenkins",
+  "main": "index.js",
+  "version": "0.0.3",
+  "homepage": "https://github.com/g3r4n/testJenkins",
+  "authors": [
+    "Enguerrand des Vaux <enguerrand.des-vaux@capgemini.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
